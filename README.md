@@ -17,7 +17,7 @@ A professional desktop application that automatically removes backgrounds from i
 
 ### For End Users (Windows)
 
-1. Go to the [Releases](link-to-your-releases) section
+1. Go to the [Releases](https://github.com/GihanIT/Python-Image-Background-Remover-with-GUI/releases/tag/v1.0.0) section
 2. Download the latest `GihanIT Background Remover.exe`
 3. Double-click the downloaded file to run the application
    - No installation or setup required
